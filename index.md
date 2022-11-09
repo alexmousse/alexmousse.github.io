@@ -1,9 +1,9 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Category Name 1 
-
+## RMIT Graduate Certificate projects and assignments  
+My implementation of assignments and projects in [***GC173: Graduate Certificate in Data Science***](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/graduate-certificates/graduate-certificate-in-data-science-gc173) by RMIT (Part-time, 2022).
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -31,5 +31,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">
 <!-- Remove above link if you don't want to attibute -->
