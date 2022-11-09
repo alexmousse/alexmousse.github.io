@@ -4,6 +4,7 @@
 
 ## RMIT Graduate Certificate projects and assignments  
 My implementation of assignments and projects in [***GC173: Graduate Certificate in Data Science***](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/graduate-certificates/graduate-certificate-in-data-science-gc173) by RMIT (Part-time, 2022).
+
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
