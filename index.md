@@ -9,7 +9,7 @@ My implementation of assignments and projects in [***GC173: Graduate Certificate
 <img src="images/Upstream-view-Yarra-River-1920x1124.jpeg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[How has tourism recovered in Australia and Victoria more specifically after COVID-19 restrictions?](https://rpubs.com/A-L-E-X/959638)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
