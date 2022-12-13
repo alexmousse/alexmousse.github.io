@@ -20,7 +20,7 @@ My implementation of assignments and projects in [***GC173: Graduate Certificate
 
 ---
 
-## A recommender system comparison using a sample of the Netflix Prize dataset 
+### A recommender system comparison using a sample of the Netflix Prize dataset 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/alexmousse/Recommednation-system-comparison)
 <img src="images/PDS ass 3.png?raw=true"/>
 
