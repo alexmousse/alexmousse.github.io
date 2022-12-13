@@ -10,7 +10,7 @@ My implementation of assignments and projects in [***GC173: Graduate Certificate
 
 ---
 ### How has tourism recovered in Australia and Victoria more specifically after COVID-19 restrictions?
-[![View on RPubs](https://img.shields.io/badge/RPubs-View_on_RPubs-orange?logo=#75AADB)](https://rpubs.com/A-L-E-X/959638)
+[![View on RPubs](https://img.shields.io/badge/RPubs-View_on_RPubs-orange?logo=75AADB)](https://rpubs.com/A-L-E-X/959638)
 <img src="images/data dashboard_toursim Vic.png?raw=true"/>
 ---
 ### Introduction to machine learning with python and scikit-learn 
