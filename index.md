@@ -20,17 +20,9 @@ My implementation of assignments and projects in [***GC173: Graduate Certificate
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
+## A recommender system comparison using a sample of the Netflix Prize dataset 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/alexmousse/Recommednation-system-comparison)
+<img src="images/PDS ass 3.png?raw=true"/>
 
 
 ---
