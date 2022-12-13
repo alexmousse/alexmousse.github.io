@@ -12,7 +12,8 @@ My implementation of assignments and projects in [***GC173: Graduate Certificate
 [How has tourism recovered in Australia and Victoria more specifically after COVID-19 restrictions?](https://rpubs.com/A-L-E-X/959638)
 <img src="images/data dashboard_toursim Vic.png?raw=true"/>
 ---
-[Project 3 Title](http://example.com/)
+### Introduction to machine learning with python and scikit-learn 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/alexmousse/Machine-learning-with-python)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
